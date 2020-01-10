@@ -2,7 +2,7 @@
 
 An investor wants to develop an application, which is able to predict the suitability of a prospective location for a new hotel.
 Additionally, open a new hotel in Kortrijk. There are 3 interesting location for building a new hotel (Lange steenstraat 11, Herderstraat 139 and Merellaan 12).
-The investor wants to know which location is suited to build a new hotel and he wants to know why (he is not satisfied with just a score).
+The investor wants to know which location is suited to build a new hotel and he would like to attribute a score or metric to each location.
 
 #Data:
 
