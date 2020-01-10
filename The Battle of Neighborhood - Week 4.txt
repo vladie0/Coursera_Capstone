@@ -1,0 +1,10 @@
+#Business Problem:
+
+An investor wants to develop an application, which is able to predict the suitability of a prospective location for a new hotel.
+Additionally, open a new hotel in Kortrijk. There are 3 interesting location for building a new hotel (Lange steenstraat 11, Herderstraat 139 and Merellaan 12).
+The investor wants to know which location is suited to build a new hotel and he wants to know why (he is not satisfied with just a score).
+
+#Data:
+
+The Foursquare API will be used to fetch data related to hotels in West-Flanders, subsequently, Foursquare will be used to retrieve all venues in proximity for each hotel. 
+Next, a classifier will be build to predict high rated hotels (rating >8) based on nearby venues and used to predict whether the specified locations are suited to build a new hotel.
